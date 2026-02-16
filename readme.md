@@ -9,27 +9,18 @@ https://opensource-demo.orangehrmlive.com
 🚀 Features
 
 ✅ Login Test Cases (Valid & Invalid)
-
 ✅ Dashboard Automation
-
 ✅ Employee Module Automation
-
 ✅ Page Object Model (POM) Structure
-
 ✅ Separate Test Data Management
-
 ✅ Screenshot & Video Capture on Failure
-
 ✅ Trace Viewer Support
-
 ✅ HTML Test Report Generation
 
 📁 Project Structure
 
 src/tests/ → All test files
-
 src/pages/ → Page Object Model files
-
 src/fixtures/ → Test data files
 
 playwright.config.ts → Configuration settings
@@ -50,11 +41,8 @@ npx playwright show-report
 🛠 Tech Stack
 
 Playwright
-
 JavaScript
-
 Node.js
 
 👩‍💻 Author
-
 Sakshi Shinde
